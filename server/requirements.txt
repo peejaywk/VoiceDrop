@@ -1,0 +1,5 @@
+# VoiceDrop drop-server (M0) — Python dependencies
+fastapi
+uvicorn[standard]
+faster-whisper
+python-multipart

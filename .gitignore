@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated / test audio (recreate with a sample clip)
+data/
+
+# Environment / secrets — never commit API keys
+.env
+.env.*
