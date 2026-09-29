@@ -2,7 +2,11 @@
 
 A small handheld voice device that captures spoken requests and hands them to
 the **Hermes agent** so Hermes turns them into real actions (tasks, vault notes,
-agent work). Inspired by the "Prompt Boy" build-log; adapted for Hermes, MVP-first.
+agent work).
+
+**Credit / inspiration:** adapted from **"Prompt Boy — I'm done with devices
+that do everything"** by **Syntax (syntaxfm)** →
+https://www.youtube.com/watch?v=WJCvFqYGrxM
 
 Tracked in the Obsidian vault project note (`VoiceDrop — handheld Hermes voice assistant`).
 
